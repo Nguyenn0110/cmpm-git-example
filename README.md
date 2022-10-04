@@ -1,0 +1,2 @@
+# cmpm-git-example
+example
